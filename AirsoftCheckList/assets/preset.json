@@ -1,0 +1,56 @@
+{
+    "1" :
+    {
+        "name" : "Toto #Sub5 🔫",
+        "description" : "Sub 5 de Toto",
+        "ShowDescription" : "false",
+        "items" :
+        {
+            "0" : "Sub5",
+            "1" : "batterie FCU",
+            "2" : "Traceur Acetech Blaster",
+            "3" : "Chargeur (x3)",
+            "4" : "Billes (0.25 traçantes)",
+            "5" : "Bouteille HPA",
+            "6" : "Flexible",
+            "7" : "Regulateur",
+            "8" : "Clé Regulateur",
+            "9" : "Red dot",
+            "10" : "GoPro",
+            "11" : "Carte SD",
+            "12" : "batterie GoPro",
+            "13" : "Foulard de touche",
+            "14" : "Elbow pad",
+            "15" : "Sac à dos",
+            "16" : "Chest Rig",
+
+        }
+    },
+    "2" :
+    {
+        "name" : "Coco #Sub5 🔫",
+        "description" : "Sub 5 de Coco",
+        "ShowDescription" : "false",
+        "items" :
+        {
+            "0" : "Sub5",
+            "1" : "batterie FCU",
+            "2" : "Traceur Acetech Blaster",
+            "3" : "Chargeur (x3)",
+            "4" : "Billes (0.25 traçantes)",
+            "5" : "Bouteille HPA",
+            "6" : "Flexible",
+            "7" : "Regulateur",
+            "8" : "Clé Regulateur",
+            "9" : "Red dot",
+            "10" : "GoPro",
+            "11" : "Carte SD",
+            "12" : "batterie GoPro",
+            "13" : "Foulard de touche",
+            "14" : "Elbow pad",
+            "15" : "Sac à dos",
+            "16" : "Chest Rig",
+
+        }
+    }
+}
